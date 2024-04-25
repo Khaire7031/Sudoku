@@ -7,11 +7,6 @@ Game offer 4 difficulty levels:
 * Expert
 <br>
 
-# Beta Version
-Beta version of Playable game (standalone executable for windows) is available in AppBuild-beta branch of this repository. Check the branch [here](https://github.com/tarunk04/sudoku-backtracking-visualizer/tree/AppBuild-beta).
- Or download the standalone executable for windows [here](https://github.com/tarunk04/sudoku-backtracking-visualizer/raw/AppBuild-beta/Sudoku%20App.exe)
-# Blog (Tutorial)
-I have explained the project in my **blog post** check it out here: [Sudoku- Backtracking algorithm and visualization (Medium)](https://bit.ly/sudoku-algo-visualizer)
 # Requirements
 * `eel` python library. Use `pip install eel` to install.
 * basic knowledge of HTML,CSS,JavaScript
@@ -19,7 +14,7 @@ I have explained the project in my **blog post** check it out here: [Sudoku- Bac
 # Setup
  * Clone this repository:  
     ```console
-    git clone https://github.com/tarunk04/sudoku-backtracking-visualizer.git
+    git clone https://github.com/Khaire7031/Sudoku.git
     ```
    or click `Download ZIP` in right panel of repository and extract it.
  * Run the `App.py`.
@@ -27,17 +22,8 @@ I have explained the project in my **blog post** check it out here: [Sudoku- Bac
  # Preview
  ![GUI](screenshots/Sudoku%20-%20Backtracking%20Algorithm%20visualizer.png)
  
- # Backtracking in Action
- ![visualizer](screenshots/visualizer.gif)
- 
- --------------------
-[![BuyMeCoffe](https://cdn-images-1.medium.com/max/800/1*Dpw8-hNGI2fDmosV4E8DVQ.png)](https://www.buymeacoffee.com/tarunkumar)
- 
  # Author
- Tarun Kumar
+ Pranav Khaire & Pushkar Pawar
  
-**Author's Note**
- 
-The author is not responsible for any misuse the program. Any contribution or suggestions are most welcome. Read the LICENSE carefully.
  # License
  The MIT License, see the included, see the [License](https://github.com/tarunk04/sudoku-backtracking-visualizer/blob/master/LICENSE) file.
